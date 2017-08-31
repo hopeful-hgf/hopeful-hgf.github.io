@@ -21,8 +21,8 @@ instagram: NULL
 linkedin: NULL
 
 # avatar and Favicon
-avatar: image/22392130.jpg
-favicon: image/22392130.ico
+avatar: /image/22392130.jpg
+favicon: /image/22392130.ico
 
 # disqus config
 disqus:
@@ -37,7 +37,7 @@ disqus:
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: rouge
-mathjax: abled
+mathjax: enabled
 sass:
   style: compressed
 
