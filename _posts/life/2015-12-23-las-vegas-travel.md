@@ -8,7 +8,7 @@ keywords: 加州,生活,California,Las Vegas
 
 > Las Vegas 是美国必去的城市之一。有人说，要看100年前的美国要去 San Francisco，看50年前的美国要去 Los Angels，看现在的美国要去 Las Vegas。
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kXmjUkO_U2ko7O0GGVQ4-br8xXg" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/edit?mid=1trxjvj8j0AqkU_WnS1ndbrXNbCs&ll=31.241616483250482%2C121.49573047674562&z=16" width="100%" height="480"></iframe>
 
 ## Outlets at Barstow
 
