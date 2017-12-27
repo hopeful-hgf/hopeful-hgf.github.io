@@ -6,7 +6,7 @@ tags: python
 keywords: python encoding
 ---
 ## 1. 思路
-用二进制打开文件，用#chardet#模块探测编码
+用二进制打开文件，用*chardet*模块探测编码
 
 ## 2. 实现
 
