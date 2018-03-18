@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airbnb Boggle Game
-category: mianjian
+category: 技术
 tags: Airbnb,Interview
 keywords: Airbnb,Interview,Boogle Game
 ---
