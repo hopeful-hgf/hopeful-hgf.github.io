@@ -11,7 +11,10 @@ description:
 git config --global user.email "xxx@"
 git config --global user.name "xx"
 git config --global alias.pgh "push origin"
-wget https://github.com/git/git/blob/master/contrib/completion/git-completion.bash
+# for auto completion
+sudo apt-get install bash-completion
+
+wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 mv git-completion.bash .git-completion.bash
 echo "source ~/.git-completion.bash" >> .bashrc
 ```
